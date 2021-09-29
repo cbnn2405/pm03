@@ -1,1 +1,1 @@
-web: java -jar build/libs/pm03-0.0.1-SNAPSHOT.java
+web: java -jar /tmp/codon/tmp/cache/.m2/repository/tdmu/music/web/pm03/0.0.1-SNAPSHOT/pm03-0.0.1-SNAPSHOT.jar
