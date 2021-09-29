@@ -1,0 +1,14 @@
+tdmu\music\web\pm03\repository\ProductRepository.class
+tdmu\music\web\pm03\repository\CategoryRepository.class
+tdmu\music\web\pm03\model\Category.class
+tdmu\music\web\pm03\apicontroller\UploadFileAPIController.class
+tdmu\music\web\pm03\dto\ProductDto.class
+tdmu\music\web\pm03\Pm03Application.class
+tdmu\music\web\pm03\controller\AdminController.class
+tdmu\music\web\pm03\controller\UploadFile.class
+tdmu\music\web\pm03\service\ProductService.class
+tdmu\music\web\pm03\service\CategoryService.class
+tdmu\music\web\pm03\model\Product.class
+tdmu\music\web\pm03\controller\HomeController.class
+tdmu\music\web\pm03\controller\ProductController.class
+tdmu\music\web\pm03\apicontroller\ProductAPIController.class
