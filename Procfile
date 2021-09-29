@@ -1,3 +1,1 @@
-web: java -java src/main/java/tdmu.music/web/pm03/Pm03Application.java
-
-
+web: java -jar build/libs/pm03-0.0.1-SNAPSHOT.java
